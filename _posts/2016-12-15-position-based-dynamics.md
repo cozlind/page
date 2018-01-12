@@ -10,6 +10,7 @@ tag:
 twitter_text: A position based dynamics demo made by Lind Chen. 
 introduction: Position Based Dynamics is a algorithm proposed by Matthias Müller to simulate dynamics system. It's usually can be used in cloth simulation, elasticity simulation.
 ---
+Code : *[Github](https://github.com/cozlind/Position-Based-Dynamics)*
 
 Date : *winter 2016*
 
