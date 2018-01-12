@@ -1,0 +1,45 @@
+# Site Settings
+title: Lind Chen | - Bella Ciao
+email: cozlind@live.com
+description: Some text about your blog.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.cozlind.com" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+
+# User Settings
+username: cozlind
+user_description: Some text about you.
+disqus_username: cozlind
+
+# Social Media
+# Remove the item if you don't need it
+github_username: cozlind
+facebook_username: your.cozlind
+twitter_username: cozlind
+instagram_username: instagram_username
+linkedin_username: cozlind
+medium_username: medium_username
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Plugins
+gems:
+  - jemoji
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Project
+    url: /
+#  - title: Art
+#    url: /Art/
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
