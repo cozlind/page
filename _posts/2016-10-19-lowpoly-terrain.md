@@ -16,7 +16,7 @@ introduction: A procedural terrain generation demo based on perlin noise. With L
 
 Code : *[Github](https://github.com/cozlind/Noise2DTerrain)*
 
-Date : *fall 2016*
+Date : *Fall 2016*
 
 <iframe width="666" height="372" src="https://www.youtube.com/embed/m0TUJfMGYkg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 This project is created following Sebastian Lague's [Procedural Landmass Generation Tutorial](https://www.youtube.com/watch?v=wbpMiKiSKm8&feature=youtu.be&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3). I had learned a lot from video tutorials of him, and really appreciate this guy. 

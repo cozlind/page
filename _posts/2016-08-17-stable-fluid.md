@@ -13,7 +13,7 @@ twitter_text: 2d grid based fluid simulation - Stable Fluid made by Lind Chen.
 introduction: Stable Fluid is a algorithm proposed by Jos Stam to simulate grid based fluid simulation. This is a 2d implementation made with unity3d.
 ---
 
-Date : *summer 2016*
+Date : *Summer 2016*
 
 Stable Fluid is a solver proposed by Jos Stam to simulate grid based fluid simulation. [The paper](http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/ns.pdf) first proposed in Siggraph 99'. This is a 2d implementation made with unity3d. 
 

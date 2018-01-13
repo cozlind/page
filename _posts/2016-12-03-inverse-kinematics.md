@@ -12,7 +12,7 @@ introduction: Inverse kinematics is the mathematical process of recovering the m
 ---
 Code : *[Github](https://github.com/cozlind/Inverse-Kinematics)*
 
-Date : *winter 2016*
+Date : *Winter 2016*
 
 Inverse kinematics is the mathematical process of recovering the movements of an object in the world from some other data. It's widely used in robotics and film animation.
 
