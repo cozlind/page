@@ -9,7 +9,7 @@ permalink: /about/
 
 ## About
 
-You've found the portfolio page of **Chen Zuo**. I study MEng in Information and Systems at University of Tsukuba.
+You've found the portfolio page of **Lind Chen**. I study MEng in Information and Systems at University of Tsukuba.
 
 This site aims to provide detail into the project work listed in my résumé. I will collate and post any sharable projects I can.
 

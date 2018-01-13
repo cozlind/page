@@ -12,7 +12,7 @@ twitter_text: A drone game prototype - Sudden Justice made by Lind Chen.
 introduction: Sudden Justice is a drone game prototype. Player can control the drone reconnoitre over the city and launch missiles.
 ---
 
-Code : *[Github](https://github.com/cozlind/https://github.com/cozlind/sudden-justice)*
+Code : *[Bitbucket](https://bitbucket.org/cozlind/sudden-justice)*
 
 Date : *Winter 2017*
 

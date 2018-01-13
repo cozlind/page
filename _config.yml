@@ -1,14 +1,17 @@
 # Site Settings
 title: Lind Chen | - Bella Ciao
 email: cozlind@live.com
-description: Some text about your blog.
+description: The homepage of Lind Chen
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.cozlind.com" # the base hostname & protocol for your site
+enforce_ssl: www.cozlind.com
+url: "https://cozlind.com" # the base hostname & protocol for your site
+enforce_ssl: cozlind.com
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
 username: cozlind
-user_description: Some text about you.
+user_description: Bella Ciao
 disqus_username: cozlind
 
 # Social Media

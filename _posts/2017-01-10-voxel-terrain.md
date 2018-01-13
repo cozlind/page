@@ -26,7 +26,7 @@ As for the voxel, the signed distance field data representation and ray tracing 
 
 ![](/assets/img/marchingcubes/2.jpg)
 
-The procedural generation technique is mainly based on Perlin Noise, which is kind of general way to express self similarity. The difference between this demo and [Lowpoly Terrain](2016-10-19-lowpoly-terrain) is that this one can generate overhangs and cave.
+The procedural generation technique is mainly based on Perlin Noise, which is kind of general way to express self similarity. The difference between this demo and [Lowpoly Terrain](/lowpoly-terrain) is that this one can generate overhangs and cave.
 
 ![](/assets/img/marchingcubes/3.jpg)
 
