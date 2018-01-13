@@ -32,8 +32,6 @@ GEM
       sass (~> 3.4)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
-    jekyll-youtube (1.0.0)
-      jekyll
     jemoji (0.8.0)
       activesupport (~> 4.0)
       gemoji (~> 3.0)
@@ -47,9 +45,9 @@ GEM
     mercenary (0.3.6)
     mini_portile2 (2.2.0)
     minitest (5.10.3)
-    nokogiri (1.8.1)
-      mini_portile2 (~> 2.2.0)
     nokogiri (1.8.0-x64-mingw32)
+      mini_portile2 (~> 2.2.0)
+    nokogiri (1.8.1)
       mini_portile2 (~> 2.2.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
@@ -74,7 +72,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  jekyll-youtube
   jemoji
   rouge
 
