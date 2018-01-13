@@ -18,7 +18,7 @@ Code : *[Github](https://github.com/cozlind/Noise2DTerrain)*
 
 Date : *Fall 2016*
 
-<iframe width="666" height="372" src="https://www.youtube.com/embed/m0TUJfMGYkg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="372vh" src="https://www.youtube.com/embed/m0TUJfMGYkg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 This project is created following Sebastian Lague's [Procedural Landmass Generation Tutorial](https://www.youtube.com/watch?v=wbpMiKiSKm8&feature=youtu.be&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3). I had learned a lot from video tutorials of him, and really appreciate this guy. 
 
 ![](/assets/img/noiseterrain/2.jpg)

@@ -18,7 +18,7 @@ Date : *Winter 2017*
 
 Sudden Justice is a drone game prototype. Player can control the drone reconnoitre over the city and launch missiles.
 
-<iframe width="666" height="372" src="https://www.youtube.com/embed/vRbKgyqlSrA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="372vh" src="https://www.youtube.com/embed/vRbKgyqlSrA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 The basic idea is to make a drone simulator to test the visual effect and flight controling. And the final result is fine.
 

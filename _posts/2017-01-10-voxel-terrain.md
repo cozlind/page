@@ -18,7 +18,7 @@ Code : *[Github](https://github.com/cozlind/Marching-Cubes)*
 Date : *Winter 2017*
 
 It's a procedural terrain generation demo based on perlin noise. The voxel representation is attained with marching cubes & marching tetrahedron.
-<iframe width="666" height="372" src="https://www.youtube.com/embed/uYTlM7gtpBc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="372vh" src="https://www.youtube.com/embed/uYTlM7gtpBc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Marching Cubes is one of the isosurface extraction algorithm, which was first published in the 1987 Siggraph proceedings by Lorensen and Cline. The application of this algorithm are mainly concerned with medical visualizations such as CT and MRI scan data, and special effects or 3D modeling with what is usually called [metaballs](https://en.wikipedia.org/wiki/Metaballs). The two-dimensional method is called the marching squares algorithm. [Anstroneer](https://astroneer.space/) also use this method to acoomplish their stylized terrain.
 

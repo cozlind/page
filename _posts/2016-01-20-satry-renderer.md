@@ -18,11 +18,11 @@ Code : *[Github](https://github.com/cozlind/SatryRenderer)*
 
 Date : *Spring 2016*
 
-<iframe width="666" height="372" src="https://www.youtube.com/embed/wT75H7Lri30" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>I spent about two month on this project, one month in searching for various documents, tutorials, one month in coding. Computer graphics is my interest all the time, but it wasn't in the syllabus of my direction. So I took a lot of time to decide what project to attain, which also can help me get a deep understanding of CG. So I choose this software rasterizing renderer instead of general hardware rasterizing with OpenGL or DirectX etc. 
+<iframe width="100%" height="372vh" src="https://www.youtube.com/embed/wT75H7Lri30" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>I spent about two month on this project, one month in searching for various documents, tutorials, one month in coding. Computer graphics is my interest all the time, but it wasn't in the syllabus of my direction. So I took a lot of time to decide what project to attain, which also can help me get a deep understanding of CG. So I choose this software rasterizing renderer instead of general hardware rasterizing with OpenGL or DirectX etc. 
 
 ![](/assets/img/satry/2.jpg)
 
-I accomplished a obj model loader which can help me input the sandard .obj model even with normal texture. Then Satry set four different  kinds of light sources to make it looks real. 
+I accomplished a obj model loader which can help me input the sandard `.obj` model even with normal texture. Then Satry set four different  kinds of light sources to make it looks real. 
 
 ![](/assets/img/satry/4.jpg)
 
