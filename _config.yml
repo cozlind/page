@@ -4,24 +4,17 @@ email: cozlind@live.com
 description: The homepage of Lind Chen
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.cozlind.com" # the base hostname & protocol for your site
-enforce_ssl: www.cozlind.com
-url: "https://cozlind.com" # the base hostname & protocol for your site
-enforce_ssl: cozlind.com
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
 username: cozlind
-user_description: Bella Ciao
+user_description: Game Developer
 disqus_username: cozlind
 
 # Social Media
 # Remove the item if you don't need it
-github_username: cozlind
+username: cozlind
 facebook_username: your.cozlind
-twitter_username: cozlind
-instagram_username: instagram_username
-linkedin_username: cozlind
-medium_username: medium_username
 
 # Build settings
 markdown: kramdown

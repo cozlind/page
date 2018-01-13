@@ -1,7 +1,7 @@
 <footer>
     <p>
-      {% if site.github_username %}
-      <a itemprop="github" href="https://github.com/{{ site.github_username }}" title="Github">
+      {% if site.username %}
+      <a itemprop="github" href="https://github.com/{{ site.username }}" title="Github">
         <svg><use xlink:href="#icon-github"></use></svg>
       </a>
       {% endif %}
@@ -10,16 +10,22 @@
         <svg><use xlink:href="#icon-facebook"></use></svg>
       </a>
       {% endif %}
-      {% if site.twitter_username %}
-      <a itemprop="twitter" href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
+      {% if site.username %}
+      <a itemprop="twitter" href="https://twitter.com/{{ site.username }}" title="Twitter">
         <svg><use xlink:href="#icon-twitter"></use></svg>
       </a>
-      {% endif %}
-      {% if site.linkedin_username %}
-      <a itemprop="linkedin" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
+      <a itemprop="linkedin" href="https://www.linkedin.com/in/{{ site.username }}" title="LinkedIn">
         <svg><use xlink:href="#icon-linkedin"></use></svg>
       </a>
+      <a itemprop="pixiv" href="https://pixiv.me/{{ site.username }}" title="Pixiv">
+        <svg><use xlink:href="#icon-pixiv"></use></svg>
+      </a>
+	  <a itemprop="Gracg" href="https://www.gracg.com/{{ site.username }}" title="Gracg">
+        <svg><use xlink:href="#icon-gracg"></use></svg>
+      </a>
       {% endif %}
+	  
+	  
     </p>
     <ul>
         {% for link in site.links %}
