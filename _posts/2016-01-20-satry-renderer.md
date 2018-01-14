@@ -10,7 +10,7 @@ tag:
 - rendering
 - c++
 twitter_text: A Software rasterizing renderer based on CPU - Satry Renderer made by Lind Chen. 
-introduction: Satry Renderer is my bachelor graduate project, which contains basic function of fixed rendering pipeline, such as vertex transform, texture mapping, software rasterization, normal mapping, environment mapping, alpha blending, etc. 
+introduction: Satry Renderer is my bachelor graduate project, which contains the basic function of the fixed rendering pipeline, such as vertex transform, texture mapping, software rasterization, normal mapping, environment mapping, alpha blending, etc. 
 ---
 
 Code : *[Github](https://github.com/cozlind/SatryRenderer)*
@@ -22,7 +22,7 @@ Date : *Spring 2016*
 
 ![](/assets/img/satry/2.jpg)
 
-I accomplished a obj model loader which can help me input the sandard `.obj` model even with normal texture. Then Satry set four different  kinds of light sources to make it looks real. 
+I accomplished an `.obj` model loader which can help me input the standard `.obj` model even with normal texture. Then Satry set four different kinds of light sources to make it looks real. 
 
 ![](/assets/img/satry/4.jpg)
 
@@ -30,7 +30,7 @@ This strange model I make is to test the backface culling and alpha blending.
 
 ![](/assets/img/satry/3.jpg)
 
-It also support wireframe, polygon and smooth display modes.
+It also supports wireframe, polygon and smooth display modes.
 
 ![](/assets/img/satry/8.jpg)
 

@@ -16,7 +16,7 @@ Code : *[Github](https://github.com/cozlind/ComplexTerrainGPU)*
 
 Date : *Spring 2017*
 
-As mentioned before ([Voxel Terrain](/voxel-terrain)), Marching Cubes is one of the isosurface extraction algorithm, which was first published in the 1987 Siggraph proceedings by Lorensen and Cline. The application of this algorithm are mainly concerned with medical visualizations such as CT and MRI scan data, and special effects or 3D modeling with what is usually called [metaballs](https://en.wikipedia.org/wiki/Metaballs). The two-dimensional method is called the marching squares algorithm. [Anstroneer](https://astroneer.space/) also use this method to acoomplish their stylized terrain.
+As mentioned before ([Voxel Terrain](/voxel-terrain)), Marching Cubes is one of the isosurface extraction algorithm, which was first published in the 1987 Siggraph proceedings by Lorensen and Cline. The application of this algorithm is mainly concerned with medical visualizations such as CT and MRI scan data, and special effects or 3D modeling with what is usually called [metaballs](https://en.wikipedia.org/wiki/Metaballs). The two-dimensional method is called the marching squares algorithm. [Anstroneer](https://astroneer.space/) also uses this method to accomplish their stylized terrain.
 
 ![](/assets/img/gpumc/2.jpg)
 
@@ -24,4 +24,4 @@ The procedural generation part is mainly based on Perlin Noise, which is saved a
 
 ![](/assets/img/gpumc/3.jpg)
 
-For accomplishing this, I practised my directx programming for more than 1 month. By following the [GPU Gems 3 Chapter 1](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch01.html), it finally worked.
+For accomplishing this, I practiced my DirectX programming for more than 1 month. By following the [GPU Gems 3 Chapter 1](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch01.html), it finally worked.

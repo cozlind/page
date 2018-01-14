@@ -17,6 +17,6 @@ Code : *[Github](https://github.com/cozlind/FieldOfView)*
 
 Date : *Winter 2017*
 
-The detect surface consist of several ray and implemented in the shader, which helps to run the process very efficiently.
+The detect surface consists of several rays and implemented in the shader, which helps to run the process very efficiently.
 
 ![](/assets/img/fov/2.jpg)
