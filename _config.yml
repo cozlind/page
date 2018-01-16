@@ -3,8 +3,8 @@ title: Lind Chen | - Bella Ciao
 email: cozlind@live.com
 description: The homepage of Lind Chen
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://cozlind.com"
-# enforce_ssl: cozlind.com
+url: "https://cozlind.com"
+enforce_ssl: cozlind.com
 url: "https://www.cozlind.com"
 enforce_ssl: www.cozlind.com
 google_analytics: "UA-112423409-1" 
