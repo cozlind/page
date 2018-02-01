@@ -1,0 +1,11 @@
+---
+title: "cc"
+artist: "The Tallis Scholars"
+director: "Peter Phillips"
+works:
+  - title: "Missa De beata virgine"
+  
+---
+
+The next plan is that I will put the voxel terrain into the game. I have already summarized several very famous survival games and sandbox games like *Don't Starve*, *The Long Dark*, *Super Mario Odyssey*, etc. About game design, I am going to give several character actions to one tool, then design the enemy creature according to these actions. It seems a good perspective to me.
+

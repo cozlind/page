@@ -4,14 +4,15 @@ layout: main
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
-    {% for post in site.posts %}
+    {% for post in site.art reversed%}
+        
         <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
             <span class="category">
-                <a href="{{ site.url }}{{ site.baseurl }}/categoria/{{ post.category }}">
+                <a href="{{ post.url | prepend: site.baseurl }}">
                     <span>{{ post.category }}</span>
                 </a>
             </span>
-            <div class="box-body">
+            <div class="box-body" style="max-width:310px;">
                 {% if post.image %}
                     <div class="cover">
                         {% include new-post-tag.html date=post.date %}
@@ -35,7 +36,7 @@ layout: main
                     </a>
                     <div class="tags">
                         {% for tag in post.tags %}
-                            <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">{{ tag }}</a>
+                             <a href="{{ post.url | prepend: site.baseurl }}">{{ tag }}</a>
                         {% endfor %}
                     </div>
                 </div>
