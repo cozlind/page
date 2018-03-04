@@ -17,8 +17,6 @@ Date : *Spring 2018*
 
 Ray tracing is a basic rendering technique used for global illumination, which can highly improve the visual realism. It usually has better rendering quality but greater computational cost than scanline rendering methods like [Satry Renderer](/satry-renderer/).
 
-I made this demo referring to [1].
-
 ![](/assets/img/rt/3.png)
 
 The algorithm starts with the camera. Casting the ray from every pixel of eye plane, then set the color and reflect the ray if it cast on the shape. After a few iterations, stop reflecting.
@@ -37,15 +35,13 @@ it's the scene without spotlight.
 
 Here are some document and source code links :
 
-[1] UnityComputeShaderTest [`Github`](https://github.com/Arlorean/UnityComputeShaderTest)
+[1][Samllpt - 99 lines Global Illumination](http://www.kevinbeason.com/smallpt/)
 
-[2] [Samllpt - 99 lines Global Illumination](http://www.kevinbeason.com/smallpt/)
+[2][Raytracing Topics & Techniques](http://www.flipcode.com/archives/Raytracing_Topics_Techniques-Part_1_Introduction.shtml) 
 
-[3] [Raytracing Topics & Techniques](http://www.flipcode.com/archives/Raytracing_Topics_Techniques-Part_1_Introduction.shtml) 
+[3] unity-raytracer [`Github`](https://github.com/SIZMW/unity-raytracer) 
 
-[4] unity-raytracer [`Github`](https://github.com/SIZMW/unity-raytracer) 
-
-[5] ray-tracing [`Github`](https://github.com/adamjoyce/ray-tracing) 
+[4] ray-tracing [`Github`](https://github.com/adamjoyce/ray-tracing) 
 
 
 
