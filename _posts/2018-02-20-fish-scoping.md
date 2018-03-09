@@ -11,6 +11,8 @@ twitter_text:  A 3d fish scoping game for Dementia prevention - Fish Scoping mad
 introduction: The number of elderly people with Dementia in Japan will exceed 7 million in 2025. It's a fish scoping game designed for Dementia prevention of elderly people, who can use the controller Mayukko to exercise.
 ---
 
+Code : *[Bitbucket](https://bitbucket.org/cozlind/fishscoping/src)*
+
 Date : *Winter 2018*
 
 Role : Designer, Programmer, Artist
