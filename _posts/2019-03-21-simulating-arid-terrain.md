@@ -33,7 +33,17 @@ Then we model them in [MagicaVoxel](https://ephtracy.github.io/) as voxel-based 
 
 The core simulation can be divided into two parts happening at the same time. One is the wind particles simulation implemented based on Position-Based Fluid (PBF) method, the other is erosion process involving the interaction between voxel and particles. We can adjust a lot of parameters such as wind direction, wind frequency, wind force, wind force distribution in vertical perspective, eroded rate, buoyancy, sediment diffusion rate, etc. 
 
-Finally we generate the polygon mesh from eroded voxel model using Marching Cubes method. Considering rendering isn't what this research focuses,  we just import the model without extra editing to Unreal Engine and assign them with textures and put them with a terrain plane, then we acquire this final scene.
+![](/assets/img/satwae/4.jpg)
+
+After the simulation, we generate the polygon mesh from eroded voxel model using Marching Cubes method. 
+
+![](/assets/img/satwae/5.jpg)
+
+Considering rendering isn't what this research focuses,  we just import the model without extra editing to Unreal Engine and assign them with textures.
+
+![](/assets/img/satwae/6.jpg)
+
+At last, we add them to an existed terrain scene to check the final visuals.
 
 <iframe width="100%" height="372vh" src="https://www.youtube.com/embed/-J3FovkvftU" frameborder="0" allowfullscreen></iframe>
 
